@@ -1,0 +1,550 @@
+500, Arcade Fire, ‘﻿Funeral’
+499, Rufus, Chaka Khan, ‘Ask Rufus’
+498, Suicide, ‘Suicide’
+497, Various Artists, ‘The Indestructible Beat of Soweto’
+496, Shakira, ‘Dónde Están los Ladrones’
+495, Boyz II Men, ‘II’
+494, The Ronettes, ‘Presenting the Fabulous Ronettes’
+493, Marvin Gaye, ‘Here, My Dear’
+492, Bonnie Raitt, ‘Nick of Time’
+491, Harry Styles, ‘Fine Line’
+490, Linda Ronstadt, ‘Heart Like a Wheel’
+489, Phil Spector and Various Artists, ‘Back to Mono (1958-1969)’
+488, The Stooges, ‘The Stooges’
+487, Black Flag, ‘Damaged’
+486, John Mayer, ‘Continuum’
+485, Richard and Linda Thompson, ‘I Want to See the Bright Lights Tonight’
+484, Lady Gaga, ‘Born This Way’
+483, Muddy Waters, ‘The Anthology’
+482, The Pharcyde, ‘Bizarre Ride II the Pharcyde’
+481, Belle and Sebastian, ‘If You’re Feeling Sinister’
+480, Miranda Lambert, ‘The Weight of These Wings’
+479, Selena, ‘Amor Prohibido’
+478, The Kinks, ‘Something Else by the Kinks’
+477, Howlin’ Wolf, ‘Moanin’ in the Moonlight’
+476, Sparks, ‘Kimono My House’
+475, Sheryl Crow, ‘Sheryl Crow’
+474, Big Star, ‘#1 Record’
+473, Daddy Yankee, ‘Barrio Fino’
+472, SZA, ‘Ctrl’
+471, Jefferson Airplane, ‘Surrealistic Pillow’
+470, Juvenile, ‘400 Degreez’
+469, Manu Chao, ‘Clandestino’
+468, The Rolling Stones, ‘Some Girls’
+467, Maxwell, ‘BLACKsummers’night’
+466, The Beach Boys, ‘The Beach  Boys Today!’
+465, King Sunny Adé, ‘The Best of the Classic Years’
+464, The Isley Brothers, ‘3 + 3’
+463, Laura Nyro, ‘Eli & the 13th Confession’
+462, The Flying Burrito Brothers, ‘The Gilded Palace of Sin’
+461, Bon Iver, ‘For Emma’
+460, Lorde, ‘Melodrama’
+459, Kid Cudi, ‘Man on the Moon: The End of the Day’
+458, Jason Isbell, ‘Southeastern’
+457, Sinéad O’Connor, ‘I Do Not Want What I Haven’t Got’
+456, Al Green, ‘Greatest Hits’
+455, Bo Diddley, ‘Bo Diddley/Go Bo Diddley’
+454, Can, ‘Ege Bamyasi’
+453, Nine Inch Nails, ‘Pretty Hate Machine’
+452, Diana Ross and the Supremes, ‘Anthology’
+451, Roberta Flack, ‘First Take’
+450, Paul and Linda McCartney, ‘Ram’
+449, The White Stripes, ‘Elephant’
+448, Otis Redding, ‘Dictionary of Soul’
+447, Bad Bunny, ‘X 100pre’
+446, Alice Coltrane, ‘Journey in Satchidanada’
+445, Yes, ‘Close to the Edge’
+444, Fiona Apple, ‘Extraordinary Machine’
+443, David Bowie, ‘Scary Monsters’
+442, The Weeknd, ‘Beauty Behind the Madness’
+441, Britney Spears, ‘Blackout’
+440, Loretta Lynn, ‘Coal Miner’s Daughter’
+439, James Brown, ‘Sex Machine’
+438, Blur, ‘Parklife’
+437, Primal Scream, ‘Screamadelica’
+436, 2Pac, ‘All Eyez on Me’
+435, Pet Shop Boys, ‘Actually’
+434, Pavement, ‘Crooked Rain, Crooked Rain’
+433, LCD Soundsystem, ‘Sound of Silver’
+432, Usher, ‘Confessions’
+431, Los Lobos, ‘How Will the Wolf Survive?’
+430, Elvis Costello, ‘My Aim Is True’
+429, The Four Tops, ‘Reach Out’
+428, Hüsker Dü, ‘New Day Rising’
+427, Al Green, ‘Call Me’
+426, Lucinda Williams, ‘Lucinda Williams’
+425, Paul Simon, ‘Paul Simon’
+424, Beck, ‘Odelay’
+423, Yo La Tengo, ‘I Can Hear the Heart Beating As One’
+422, Marvin Gaye, ‘Let’s Get It On’
+421, M.I.A., ‘Arular’
+420, Earth, Wind and Fire, ‘That’s the Way of the World’
+419, Eric Church, ‘Chief’
+418, Dire Straits, ‘Brothers in Arms’
+417, Ornette Coleman, ‘The Shape of Jazz to Come’
+416, The Roots, ‘Things Fall Apart’
+415, The Meters, ‘Looka Py Py’
+414, Chic, ‘Risqué’
+413, Creedence Clearwater Revival, ‘Cosmo’s Factory’
+412, Smokey Robinson and the Miracles, ‘Going to a Go Go’
+411, Bob Dylan, ‘Love and Theft’
+410, The Beach Boys, ‘Wild Honey’
+409, Grateful Dead, ‘Workingman’s Dead’
+408, Motörhead, ‘Ace of Spades’
+407, Neil Young, ‘Everybody Knows This Is Nowhere’
+406, Magnetic Fields, ’69 Love Songs’
+405, Various, ‘Nuggets: Original Artyfacts from the First Psychedelic Era’
+404, Anita Baker, ‘Rapture’
+403, Ghostface Killah, ‘Supreme Clientele’
+402, Fela Kuti and Africa 70, ‘Expensive Shit’
+401, Blondie, ‘Blondie’
+400, The Go-Go’s, ‘Beauty and the Beat’
+399, Brian Wilson, ‘Smile’
+398, The Raincoats, ‘The Raincoats’
+397, Billie Eilish, ‘When We All Fall Asleep, Where Do We Go?’
+396, Todd Rundgren, ‘Something/Anything?’
+395, D’Angelo and the Vanguard, ‘Black Messiah’
+394, Diana Ross, ‘Diana’
+393, Taylor Swift, ‘1989’
+392, Ike and Tina Turner, ‘Proud Mary: The Best of Ike and Tina Turner’
+391, Kelis, ‘Kaleidoscope’
+390, Pixies, ‘Surfer Rosa’
+389, Mariah Carey, ‘The Emancipation of Mimi’
+388, Aretha Franklin, ‘Young, Gifted and Black’
+387, Radiohead, ‘In Rainbows’
+386, J Dilla, ‘Donuts’
+385, Ramones, ‘Rocket to Russia’
+384, The Kinks, ‘The Kinks Are the Village Green Preservation Society’
+383, Massive Attack, ‘Mezzanine’
+382, Tame Impala, ‘Currents’
+381, Lynyrd Skynyrd, ‘(Pronounced ‘Lĕh-‘nérd ‘Skin-‘nérd)’
+380, Charles Mingus, ‘Mingus Ah Um’
+379, Rush, ‘Moving Pictures’
+378, Run-DMC, ‘Run-D.M.C.’
+377, Yeah Yeah Yeahs, ‘Fever to Tell’
+376, Neutral Milk Hotel, ‘In the Aeroplane Over the Sea’
+375, Green Day, ‘Dookie’
+374, Robert Johnson, ‘King of the Delta Blues Singers’
+373, Isaac Hayes, ‘Hot Buttered Soul’
+372, Big Brother and the Holding Company, ‘Cheap Thrills’
+371, The Temptations, ‘Anthology’
+370, Lil Wayne, ‘Tha Carter II’
+369, Mobb Deep, ‘The Infamous’
+368, George Harrison, ‘All Things Must Pass’
+367, Drake, ‘If You’re Reading This It’s Too Late’
+366, Aerosmith, ‘Rocks’
+365, Madvillain, ‘Madvillainy’
+364, Talking Heads, ‘More Songs About Buildings and Food’
+363, Parliament, ‘Mothership Connection’
+362, Luther Vandross, ‘Never Too Much’
+361, My Chemical Romance, ‘The Black Parade’
+360, Funkadelic, ‘One Nation Under a Groove’
+359, Big Star, ‘Radio City’
+358, Sonic Youth, ‘Goo’
+357, Tom Waits, ‘Rain Dogs’
+356, Dr. John, ‘Gris-Gris’
+355, Black Sabbath, ‘Black Sabbath’
+354, X-Ray Spex, ‘Germfree Adolescents’
+353, The Cars, ‘The Cars’
+352, Eminem, ‘The Slim Shady LP’
+351, Roxy Music, ‘For Your Pleasure’
+350, Stevie Wonder, ‘Music of My Mind’
+349, MC5, ‘Kick Out the Jams’
+348, Gillian Welch, ‘Time (The Revelator)’
+347, GZA, ‘Liquid Swords’
+346, Arctic Monkeys, ‘AM’
+345, Bruce Springsteen, ‘The Wild, the Innocent & the E Street Shuffle’
+344, Toots and the Maytals, ‘Funky Kingston’
+343, Sly and the Family Stone, ‘Greatest Hits’
+342, The Beatles, ‘Let It Be’
+341, The Smashing Pumpkins, ‘Siamese Dream’
+340, Snoop Doggy Dogg, ‘Doggystyle’
+339, Janet Jackson, ‘Rhythm Nation 1814’
+338, Brian Eno, ‘Another Green World’
+337, Bob Dylan, ‘John Wesley Harding’
+336, Roxy Music, ‘Avalon’
+335, Bob Dylan and the Band, ‘The Basement Tapes’
+334, Santana, ‘Abraxas’
+333, Bill Withers, ‘Still Bill’
+332, Elvis Presley, ‘Elvis Presley’
+331, Madonna, ‘Like a Prayer’
+330, The Rolling Stones, ‘Aftermath’
+329, DJ Shadow, ‘Endtroducing…..’
+328, Vampire Weekend, ‘Modern Vampires of the City’
+327, The Who, ‘Live at Leeds’
+326, Prince, ‘Dirty Mind’
+325, Jerry Lee Lewis, ‘All Killer No Filler!’
+324, Coldplay, ‘A Rush of Blood to the Head’
+323, The Clash, ‘Sandinista!’
+322, Elvis Presley, ‘From Elvis in Memphis’
+321, Lana Del Rey, ‘Norman Fucking Rockwell!’
+320, X, ‘Los Angeles’
+319, The Stone Roses, ‘The Stone Roses’
+318, Janet Jackson, ‘The Velvet Rope’
+317, Billie Holiday, ‘Lady in Satin’
+316, The Who, ‘The Who Sell Out’
+315, Rosalía, ‘El Mal Querer’
+314, Aaliyah, ‘One in a Million’
+313, PJ Harvey, ‘Stories From the City, Stories From the Sea’
+312, Solange, ‘A Seat at the Table’
+311, Neil Young, ‘On the Beach’
+310, Wire, ‘Pink Flag’
+309, Joy Division, ‘Closer’
+308, Brian Eno, ‘Here Come the Warm Jets’
+307, Sam Cooke, ‘Portrait of a Legend’
+306, Al Green, ‘I’m Still in Love With You’
+305, Kiss, ‘Alive!’
+304, Bill Withers, ‘Just As I Am’
+303, ABBA, ‘The Definitive Collection’
+302, Neil Young, ‘Tonight’s the Night’
+301, New York Dolls, ‘New York Dolls’
+300, Shania Twain, ‘Come on Over’
+299, B.B. King, ‘Live at the Regal’
+298, Tom Petty, ‘Full Moon Fever’
+297, Peter Gabriel, ‘So’
+296, Neil Young, ‘Rust Never Sleeps’
+295, Daft Punk, ‘Random Access Memories’
+294, Weezer, ‘Weezer (The Blue Album)’
+293, The Breeders, ‘Last Splash’
+292, Van Halen, ‘Van Halen’
+291, Destiny’s Child, ‘The Writing’s on the Wall’
+290, OutKast, ‘Speakerboxxx/The Love Below’
+289, Björk, ‘Post’
+288, The Modern Lovers, ‘The Modern Lovers’
+287, The Byrds, ‘Mr. Tambourine Man’
+286, Red Hot Chili Peppers, ‘Californication’
+285, Big Star, ‘Third/Sister Lovers’
+284, Merle Haggard, ‘Down Every Road 1962-1994’
+283, Donna Summer, ‘Bad Girls’
+282, Frank Sinatra, ‘In the Wee Small Hours’
+281, Harry Nilsson, ‘Nilsson Schmilsson’
+280, 50 Cent, ‘Get Rich or Die Tryin”
+279, Nirvana, ‘MTV Unplugged in New York’
+278, Led Zeppelin, ‘Houses of the Holy’
+277, Alicia Keys, ‘The Diary of Alicia Keys’
+276, Radiohead, ‘The Bends’
+275, Curtis Mayfield, ‘Curtis’
+274, The Byrds, ‘Sweetheart of the Rodeo’
+273, Gang of Four, ‘Entertainment!’
+272, The Velvet Underground, ‘White Light/White Heat’
+271, Mary J. Blige, ‘What’s the 411?’
+270, Kacey Musgraves, ‘Golden Hour’
+269, Kanye West, ‘Yeezus’
+268, Randy Newman, ‘Sail Away’
+267, Minutemen, ‘Double Nickels on the Dime’
+266, The Beatles, ‘Help!’
+265, Pavement, ‘Wowee Zowee’
+264, Pink Floyd, ‘Wish You Were Here’
+263, The Beatles, ‘Hard Day’s Night’
+262, New Order, ‘Power, Corruption & Lies’
+261, Beastie Boys, ‘Check Your Head’
+260, The Slits, ‘Cut’
+259, Janis Joplin, ‘Pearl’
+258, Joni Mitchell, ‘The Hissing of Summer Lawns’
+257, Dolly Parton, ‘Coat of Many Colors’
+256, Tracy Chapman, ‘Tracy Chapman’
+255, Bob Dylan, ‘The Freewheelin’ Bob Dylan’
+254, Herbie Hancock, ‘Head Hunters’
+253, Pink Floyd, ‘The Piper at the Gates of Dawn’
+252, Devo, ‘Q: Are We Not Men? A: We Are Devo!’
+251, Elton John, ‘Honky Château’
+250, Buzzcocks, ‘Singles Going Steady’
+249, Whitney Houston, ‘Whitney Houston’
+248, Green Day, ‘American Idiot’
+247, Sade, ‘Love Deluxe’
+246, LL Cool J, ‘Mama Said Knock You Out’
+245, Cocteau Twins, ‘Heaven or Las Vegas’
+244, Kanye West, ‘808s & Heartbreak’
+243, The Zombies, ‘Odessey and Oracle’
+242, The Velvet Underground, ‘Loaded’
+241, Massive Attack, ‘Blue Lines’
+240, Sam Cooke, ‘Live at the Harlem Square Club, 1963’
+239, Boogie Down Productions, ‘Criminal Minded’
+238, Kraftwerk, ‘Trans Europe Express’
+237, Willie Nelson, ‘Red Headed Stranger’
+236, Daft Punk, ‘Discovery’
+235, Metallica, ‘Metallica (The Black Album)’
+234, Black Sabbath, ‘Master of Reality’
+233, Tori Amos, ‘Little Earthquakes’
+232, John Coltrane, ‘Giant Steps’
+231, Tom Petty and the Heartbreakers, ‘Damn the Torpedoes’
+230, Rihanna, ‘Anti’
+229, Patsy Cline, ‘The Ultimate Collection’
+228, De La Soul, ‘De La Soul Is Dead’
+227, Little Richard, ‘Here’s Little Richard’
+226, Derek and the Dominos, ‘Layla and Other Assorted Love Songs’
+225, Wilco, ‘Yankee Hotel Foxtrot’
+224, Dixie Chicks, ‘Fly’
+223, John Lennon, ‘Imagine’
+222, Madonna, ‘Ray of Light’
+221, Rage Against the Machine, ‘Rage Against the Machine’
+220, Crosby, Stills, Nash, and Young, ‘Déjà Vu’
+219, Raekwon, ‘Only Built 4 Cuban Linx’
+218, TLC, ‘CrazySexyCool’
+217, Oasis, ‘Definitely Maybe’
+216, Elliott Smith, ‘Either/Or’
+215, Grateful Dead, ‘American Beauty’
+214, Tom Petty, ‘Wildflowers’
+213, Fiona Apple, ‘The Idler Wheel’
+212, Nina Simone, ‘Wild Is the Wind’
+211, Joy Divison, ‘Unknown Pleasures’
+210, Ray Charles, ‘The Birth of Soul’
+209, Run-DMC, ‘Raising Hell’
+208, Lil Wayne, ‘Tha Carter III’
+207, Eagles, ‘Eagles’
+206, David Bowie, ‘Low’
+205, Cat Stevens, ‘Tea for the Tillerman’
+204, Kanye West, ‘Graduation’
+203, Nick Drake, ‘Pink Moon’
+202, Björk, ‘Homogenic’
+201, A Tribe Called Quest, ‘Midnight Marauders’
+200, Sade, ‘Diamond Life’
+199, Pavement, ‘Slanted and Enchanted’
+198, The B-52’s, ‘The B-52’s’
+197, The Beatles, ‘Meet the Beatles!’
+196, Robyn, ‘Body Talk’
+195, Leonard Cohen, ‘Songs of Leonard Cohen’
+194, Michael Jackson, ‘Bad’
+193, Creedence Clearwater Revival, ‘Willy and the Poor Boys’
+192, Beastie Boys, ‘Licensed to Ill’
+191, Etta James, ‘At Last!’
+190, The Who, ‘Tommy’
+189, Sleater-Kinney, ‘Dig Me Out’
+188, T. Rex, ‘Electric Warrior’
+187, Ice Cube, ‘AmeriKKKa’s Most Wanted’
+186, Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’
+185, The Rolling Stones, ‘Beggars Banquet’
+184, Cyndi Lauper, ‘She’s So Unusual’
+183, D’Angelo, ‘Brown Sugar’
+182, James Taylor, ‘Sweet Baby James’
+181, Bob Dylan, ‘Bringing It All Back Home’
+180, Love, ‘Forever Changes’
+179, Notorious B.I.G., ‘Life After Death’
+178, Otis Redding, ‘Otis Blue’
+177, Rod Stewart, ‘Every Picture Tells a Story’
+176, Public Enemy, ‘Fear of a Black Planet’
+175, Kendrick Lamar, ‘DAMN.’
+174, Jimmy Cliff and Various Artists, ‘The Harder They Come: Original Soundtrack’
+173, Nirvana, ‘In Utero’
+172, Simon and Garfunkel, ‘Bridge Over Troubled Water’
+171, Sonic Youth, ‘Daydream Nation’
+170, Cream, ‘Disraeli Gears’
+169, Billy Joel, ‘The Stranger’
+168, Steely Dan, ‘Can’t Buy a Thrill’
+167, Depeche Mode, ‘Violator’
+166, Buddy Holly, ’20 Golden Greats’
+165, R.E.M., ‘Murmur’
+164, Johnny Cash, ‘At Folsom Prison’
+163, Various Artists, ‘Saturday Night Fever’
+162, Pulp, ‘Different Class’
+161, Crosby, Stills & Nash, ‘Crosby, Stills & Nash’
+160, Pearl Jam, ‘Ten’
+159, The Police, ‘Synchronicity’
+158, Erykah Badu, ‘Mama’s Gun’
+157, Oasis, ‘(What’s the Story) Morning Glory?’
+156, The Replacements, ‘Let It Be’
+155, Jay-Z, ‘The Black Album’
+154, Aretha Franklin, ‘Amazing Grace’
+153, PJ Harvey, ‘Rid of Me’
+152, The Pretenders, ‘Pretenders’
+151, George Michael, ‘Faith’
+200, Sade, ‘Diamond Life’
+199, Pavement, ‘Slanted and Enchanted’
+198, The B-52’s, ‘The B-52’s’
+197, The Beatles, ‘Meet the Beatles!’
+196, Robyn, ‘Body Talk’
+195, Leonard Cohen, ‘Songs of Leonard Cohen’
+194, Michael Jackson, ‘Bad’
+193, Creedence Clearwater Revival, ‘Willy and the Poor Boys’
+192, Beastie Boys, ‘Licensed to Ill’
+191, Etta James, ‘At Last!’
+190, The Who, ‘Tommy’
+189, Sleater-Kinney, ‘Dig Me Out’
+188, T. Rex, ‘Electric Warrior’
+187, Ice Cube, ‘AmeriKKKa’s Most Wanted’
+186, Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’
+185, The Rolling Stones, ‘Beggars Banquet’
+184, Cyndi Lauper, ‘She’s So Unusual’
+183, D’Angelo, ‘Brown Sugar’
+182, James Taylor, ‘Sweet Baby James’
+181, Bob Dylan, ‘Bringing It All Back Home’
+180, Love, ‘Forever Changes’
+179, Notorious B.I.G., ‘Life After Death’
+178, Otis Redding, ‘Otis Blue’
+177, Rod Stewart, ‘Every Picture Tells a Story’
+176, Public Enemy, ‘Fear of a Black Planet’
+175, Kendrick Lamar, ‘DAMN.’
+174, Jimmy Cliff and Various Artists, ‘The Harder They Come: Original Soundtrack’
+173, Nirvana, ‘In Utero’
+172, Simon and Garfunkel, ‘Bridge Over Troubled Water’
+171, Sonic Youth, ‘Daydream Nation’
+170, Cream, ‘Disraeli Gears’
+169, Billy Joel, ‘The Stranger’
+168, Steely Dan, ‘Can’t Buy a Thrill’
+167, Depeche Mode, ‘Violator’
+166, Buddy Holly, ’20 Golden Greats’
+165, R.E.M., ‘Murmur’
+164, Johnny Cash, ‘At Folsom Prison’
+163, Various Artists, ‘Saturday Night Fever’
+162, Pulp, ‘Different Class’
+161, Crosby, Stills & Nash, ‘Crosby, Stills & Nash’
+160, Pearl Jam, ‘Ten’
+159, The Police, ‘Synchronicity’
+158, Erykah Badu, ‘Mama’s Gun’
+157, Oasis, ‘(What’s the Story) Morning Glory?’
+156, The Replacements, ‘Let It Be’
+155, Jay-Z, ‘The Black Album’
+154, Aretha Franklin, ‘Amazing Grace’
+153, PJ Harvey, ‘Rid of Me’
+152, The Pretenders, ‘Pretenders’
+151, George Michael, ‘Faith’
+150, Bruce Springsteen, ‘Nebraska’
+149, John Prine, ‘John Prine’
+148, Frank Ocean, ‘Channel Orange’
+147, Jeff Buckley, ‘Grace’
+146, Blondie, ‘Parallel Lines’
+145, Eminem, ‘The Marshall Mathers LP’
+144, Led Zeppelin, ‘Physical Graffiti’
+143, The Velvet Underground, ‘The Velvet Underground’
+142, Bruce Springsteen, ‘Born in the U.S.A.’
+141, Pixies, ‘Doolittle’
+140, Bob Marley and the Wailers, ‘Catch a Fire’
+139, Black Sabbath, ‘Paranoid’
+138, Madonna, ‘The Immaculate Collection’
+137, Adele, ’21’
+136, Funkadelic, ‘Maggot Brain’
+135, U2, ‘The Joshua Tree’
+134, Fugees, ‘The Score’
+133, Joni Mitchell, ‘Hejira’
+132, Hank Williams, ’40 Greatest Hits’
+131, Portishead, ‘Dummy’
+130, Prince, ‘1999’
+129, Pink Floyd, ‘The Wall’
+128, Queen, ‘A Night at the Opera’
+127, Ray Charles, ‘Modern Sounds in Country and Western Music’
+126, Mary J. Blige, ‘My Life’
+125, Beastie Boys, ‘Paul’s Boutique’
+124, U2, ‘Achtung Baby’
+123, Led Zeppelin, ‘Led Zeppelin II’
+122, Nine Inch Nails, ‘The Downward Spiral’
+121, Elvis Costello, ‘This Year’s Model’
+120, Van Morrison, ‘Moondance’
+119, Sly and the Family Stone, ‘Stand!’
+118, The Eagles, ‘Hotel California’
+117, Kanye West, ‘Late Registration’
+116, The Cure, ‘Disintegration’
+115, Kendrick Lamar, ‘good kid, m.A.A.d city’
+114, The Strokes, ‘Is This It’
+113, The Smiths, ‘The Queen Is Dead’
+112, Elton John, ‘Goodbye Yellow Brick Road’
+111, Janet Jackson, ‘Control’
+110, Joni Mitchell, ‘Court and Spark’
+109, Lou Reed, ‘Transformer’
+108, Fiona Apple, ‘When the Pawn …’
+107, Television, ‘Marquee Moon’
+106, Hole, ‘Live Through This’
+105, The Allman Brothers, ‘At Fillmore East’
+104, The Rolling Stones, ‘Sticky Fingers’
+103, De La Soul, ‘Three Feet High And Rising’
+102, The Clash, ‘The Clash’
+101, Led Zeppelin, ‘Led Zeppelin’
+100, The Band, ‘Music From Big Pink’
+99, Taylor Swift, ‘Red’
+98, Lucinda Williams, ‘Car Wheels on a Gravel Road’
+97, Metallica, ‘Master of Puppets’
+96, R.E.M., ‘Automatic for the People’
+95, Drake, ‘Take Care’
+94, The Stooges, ‘Fun House’
+93, Missy “Misdemeanor” Elliott, ‘Supa Dupa Fly’
+92, The Jimi Hendrix Experience, ‘Axis: Bold as Love’
+91, Bruce Springsteen, ‘Darkness on the Edge of Town’
+90, Neil Young, ‘After the Gold Rush’
+89, Erykah Badu, ‘Baduizm’
+88, David Bowie, ‘Hunky Dory’
+87, Miles Davis, ‘Bitches Brew’
+86, The Doors, ‘The Doors’
+85, John Lennon, ‘Plastic Ono Band’
+84, AC/DC, ‘Back in Black’
+83, Dusty Springfield, ‘Dusty in Memphis’
+82, Sly and the Family Stone, ‘There’s a Riot Goin’ On’
+81, Beyoncé, ‘Beyoncé’
+80, The Sex Pistols, ‘Never Mind the Bollocks Here’s the Sex Pistols’
+79, Frank Ocean, ‘Blond’
+78, Elvis Presley, ‘The Sun Sessions’
+77, The Who, ‘Who’s Next’
+76, Curtis Mayfield, ‘Superfly’
+75, Aretha Franklin, ‘Lady Soul’
+74, Kanye West, ‘The College Dropout’
+73, My Bloody Valentine, ‘Loveless’
+72, Neil Young, ‘Harvest’
+71, Bob Marley and the Wailers, ‘Exodus’
+70, N.W.A, ‘Straight Outta Compton’
+69, Alanis Morissette, ‘Jagged Little Pill’
+68, Kate Bush, ‘Hounds of Love’
+67, Jay-Z, ‘Reasonable Doubt’
+66, John Coltrane, ‘A Love Supreme’
+65, James Brown, ‘Live at the Apollo’
+64, OutKast, ‘Stankonia’
+63, Steely Dan, ‘Aja’
+62, Guns N’ Roses, ‘Appetite for Destruction’
+61, Eric B. and Rakim, ‘Paid in Full’
+60, Van Morrison, ‘Astral Weeks’
+59, Stevie Wonder, ‘Talking Book’
+58, Led Zeppelin, ‘Led Zeppelin IV’
+57, The Band, ‘The Band’
+56, Liz Phair, ‘Exile in Guyville’
+55, Pink Floyd, ‘The Dark Side of the Moon’
+54, James Brown, ‘Star Time’
+53, Jimi Hendrix, ‘Electric Ladyland’
+52, David Bowie, ‘Station to Station’
+51, Chuck Berry, ‘The Great Twenty-Eight’
+50, Jay-Z, ‘The Blueprint’
+49, OutKast, ‘Aquemini’
+48, Bob Marley and the Wailers, ‘Legend’
+47, Ramones, ‘Ramones’
+46, Paul Simon, ‘Graceland’
+45, Prince, ‘Sign O’ the Times’
+44, Nas, ‘Illmatic’
+43, A Tribe Called Quest, ‘The Low End Theory’
+42, Radiohead, ‘OK Computer’
+41, The Rolling Stones, ‘Let It Bleed’
+40, David Bowie, ‘The Rise and Fall of Ziggy Stardust and the Spiders From Mars’
+39, Talking Heads, ‘Remain in Light’
+38, Bob Dylan, ‘Blonde on Blonde’
+37, Dr. Dre, ‘The Chronic’
+36, Michael Jackson, ‘Off the Wall’
+35, The Beatles, ‘Rubber Soul’
+34, Stevie Wonder, ‘Innervisions’
+33, Amy Winehouse, ‘Back to Black’
+32, Beyoncé, ‘Lemonade’
+31, Miles Davis, ‘Kind of Blue’
+30, Jimi Hendrix, ‘Are You Experienced’
+29, The Beatles, ‘White Album’
+28, D’Angelo, ‘Voodoo’
+27, Wu-Tang Clan, ‘Enter the Wu-Tang(36 Chambers)’
+26, Patti Smith, ‘Horses’
+25, Carole King, ‘Tapestry’
+24, The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’
+23, The Velvet Underground, ‘The Velvet Underground and Nico’
+22, The Notorious B.I.G., ‘Ready to Die’
+21, Bruce Springsteen, ‘Born to Run’
+20, Radiohead, ‘Kid A’
+19, Kendrick Lamar, ‘To Pimp a Butterfly’
+18, Bob Dylan, ‘Highway 61 Revisited’
+17, Kanye West, ‘My Beautiful Dark Twisted Fantasy’
+16, The Clash, ‘London Calling’
+15, Public Enemy, ‘It Takes a Nation of Millions to Hold Us Back’
+14, The Rolling Stones, ‘Exile on Main Street’
+13, Aretha Franklin, ‘I Never Loved a Man the Way I Love You’
+12, Michael Jackson, ‘Thriller’
+11, The Beatles, ‘Revolver’
+10, Lauryn Hill, ‘The Miseducation of Lauryn Hill’
+9, Bob Dylan, ‘Blood on the Tracks’
+8, Prince and the Revolution, ‘Purple Rain’
+7, Fleetwood Mac, ‘Rumours’
+6, Nirvana, ‘Nevermind’
+5, The Beatles, ‘Abbey Road’
+4, Stevie Wonder, ‘Songs in the Key of Life’
+3, Joni Mitchell, ‘Blue’
+2, The Beach Boys, ‘Pet Sounds’
+1, Marvin Gaye, ‘What’s Going On’
